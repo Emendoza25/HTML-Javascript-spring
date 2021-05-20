@@ -13,7 +13,7 @@ body{
 
 header{
     background-color:darkgray;
-    color: honeydew;
+    
 }
 
 nav{
@@ -30,7 +30,7 @@ text-decoration: none;
 }
 
 #content{
-    background-color: honeydew;
+    background-color:grey;
     width: 100px;
     padding: 10px;
 }
